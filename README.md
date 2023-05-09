@@ -19,4 +19,3 @@ E-->F;
 F-->A;
 F-->B;
 ```
-![skrek](https://github.com/spartanproj/hermes/assets/123550198/35bc77ba-7cc7-4dd0-871a-e63dccfea4a0)
