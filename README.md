@@ -1,4 +1,4 @@
-# hermes
+# ![image](./logo.svg)
 
 A decentralized chat service
 
