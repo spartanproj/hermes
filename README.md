@@ -2,6 +2,8 @@
 
 A decentralized chat service
 
+*The website is on a different repo - click [here](https://github.com/uimaxbai/decentralized-chat-web/) to see it*
+
 <h1> Coming soon.... </h1>
 
 ## Roadmap
